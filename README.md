@@ -2,7 +2,7 @@
 
 ## 📌 Objetivo
 O objetivo principal era a criação de um sistema gerencial versionado em aplicação web que possuísse inserção, alteração e exclusão de dados que se interligassem (CRUD). Fiz um painel gerencial que controla uma loja de jogos, com funcionários de cargos diferentes que vendem determinados jogos para certos clientes.
-<P>-> Este projeto é fullstack e este repositório é referente ao front-end, acesse o [back-end aqui](https://github.com/viniciusjn/clj-back).</P>
+<P>-> Este projeto é fullstack e este repositório é referente apenas ao front-end.</P>
 
 
 ## 🛠️ Ferramentas e tecnologias
